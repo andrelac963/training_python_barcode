@@ -1,1 +1,2 @@
-# training_python_barcode
+Projeto para treinamento na linguagem python utilizando o framework flask.
+Gerador de código de barras.
